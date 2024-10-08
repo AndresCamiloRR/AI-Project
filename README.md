@@ -1,5 +1,5 @@
 
-# AI-Portfolio
+# AI-Project
 
 This  project is part of the **Inteligencia Artificial** course in Systems Engineering degree, Universidad  Icesi, Cali Colombia.
 
