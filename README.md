@@ -15,8 +15,7 @@ This  project is part of the **Inteligencia Artificial** course in Systems Engin
 
 
 ## Project Objectives
-* Discover, learn and practice the required skills for the role of data analyst.
-* Conduct data research on multiple datasets of our interests.
+* Develop a software tool capable of analyzing specific activities of a person (walking toward the camera, walking back, turning, sitting, standing) and tracking joint and postural movements
 
 ### Methods Used
 * Inferential Statistics
