@@ -25,9 +25,13 @@ This  project is part of the **Inteligencia Artificial** course in Systems Engin
 
 ### Technologies
 * Python
-* Jupyter
+* Jupyter Notebook
+* OpenCV
+* MediaPipe
+* Numpy
 * Pandas
 * Matlplotlib
+* Seaborn
 * Sklearn
 
 
