@@ -3,7 +3,7 @@
 
 This  project is part of the **Inteligencia Artificial** course in Systems Engineering degree, Universidad  Icesi, Cali Colombia.
 
-#### -- Project Status: On Development
+Project video: [AI project video](https://youtu.be/O0DmvCr-YFA)
 
 ## Contributing Members
 
